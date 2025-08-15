@@ -1,0 +1,1 @@
+See Vercel-ready chatbot code. Tailwind + OpenAI + Vite + SvelteKit.
